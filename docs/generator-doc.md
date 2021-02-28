@@ -1,3 +1,9 @@
+---
+layout: default
+title: Generators
+nav_order: 300
+---
+
 # Generators
 
 The generators consist of 5 methods that allows you to interact with the person running the command. You can remind them of standards,
