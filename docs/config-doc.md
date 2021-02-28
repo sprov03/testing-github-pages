@@ -1,3 +1,9 @@
+---
+layout: default
+title: Configuration
+nav_order: 2
+---
+
 # Configuration
 
 The configuration file for Akceli is ```config/akceli.php```
