@@ -1,3 +1,9 @@
+---
+layout: default
+title: Walk Through
+nav_order: 14
+---
+
 # Todo App Demo
 
 Simple Todo App Demo including project setup, to a basic todo app.

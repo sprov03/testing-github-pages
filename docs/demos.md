@@ -1,3 +1,10 @@
+---
+layout: default
+title: demos
+nav_order: 12
+---
+
+
 # Demos
 
 

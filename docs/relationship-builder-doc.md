@@ -1,3 +1,9 @@
+---
+layout: default
+title: Relationship Builder
+nav_order: 3
+---
+
 # Relationship Builder
 
 Relationship builders allow you to simplify your migrations while following best practices

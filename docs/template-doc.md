@@ -1,3 +1,9 @@
+---
+layout: default
+title: Templates
+nav_order: 5
+---
+
 # Templates
 
 Templates utilize the same Templating Engine that Blade uses.  This give you a lot of control over the code that you
